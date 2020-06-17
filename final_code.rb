@@ -1,3 +1,5 @@
+# Consider it as the final code
+
 require 'savon'
 
 client = Savon.client(wsdl:'http://ws.cdyne.com/psaddress/addresslookup.asmx?wsdl')
